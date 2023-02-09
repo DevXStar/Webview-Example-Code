@@ -23,7 +23,7 @@ class MainActivity : AppCompatActivity() {
             webview.apply {
                 settings.javaScriptEnabled=true
                 settings.safeBrowsingEnabled=true
-                loadUrl("https://github.com/INFI-NIXEL/INFI-NIXEL")
+                loadUrl("https://github.com/INFI-NIXEL")
             }
     }
 }
